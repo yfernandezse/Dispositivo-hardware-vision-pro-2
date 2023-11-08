@@ -1,0 +1,27 @@
+
+body {
+    font-family: 'Arial', sans-serif; 
+    background: #ffffff; 
+    color: #090909; 
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    background-color: #1f151550; 
+    padding: 10px 0; 
+    text-align: center; 
+}
+
+nav ul li {
+    display: inline; 
+    margin-right: 20px; 
+}
+
+footer {
+    background-color: #1f151550; 
+    padding: 10px 0; 
+    text-align: center; 
+    font-size: 0.8em; 
+}
